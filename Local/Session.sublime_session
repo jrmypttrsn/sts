@@ -1,8 +1,13 @@
 {
 	"folder_history":
 	[
-		"/home/jeremy/code/alt_oid",
 		"/home/jeremy/code/ococ",
+		"/home/jeremy/Downloads/wp",
+		"/home/jeremy/Downloads/PerfectFluidWidthLayout/PerfectFluidWidthLayout",
+		"/home/jeremy/code/ococ-laradock",
+		"/home/jeremy/code/laradock",
+		"/home/jeremy/code/mobx-state-tree/packages/mst-example-bookshop",
+		"/home/jeremy/code/alt_oid",
 		"/home/jeremy/code/testApp",
 		"/home/jeremy/code/css-grid",
 		"/home/jeremy/code/laravel-event-projector-demo-app",
@@ -17,17 +22,49 @@
 		"/home/jeremy/code/test-admin"
 	],
 	"last_version": 3176,
-	"last_window_id": 59,
+	"last_window_id": 69,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1136.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"fieldseas",
+						"fieldseason"
+					],
+					[
+						"FieldSeas",
+						"FieldSeason::all"
+					],
+					[
+						"belongsto",
+						"belongsToMany"
+					],
+					[
+						"alig",
+						"align-self\tproperty"
+					],
+					[
+						"just",
+						"justify-content\tproperty"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"paddin",
+						"padding-right\tproperty"
+					],
+					[
+						"bac",
+						"background\tproperty"
+					],
 					[
 						"cat",
 						"categories"
@@ -67,10 +104,6 @@
 					[
 						"onecer",
 						"onecert-seal.png"
-					],
-					[
-						"padd",
-						"padding-left\tproperty"
 					],
 					[
 						"onc",
@@ -173,10 +206,6 @@
 						"rgba()\tbackground-color"
 					],
 					[
-						"just",
-						"justify-content-between \tBootstrap 4 Class"
-					],
-					[
 						"d",
 						"d-flex \tBootstrap 4 Class"
 					],
@@ -241,6 +270,10 @@
 				"selected_items":
 				[
 					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
 						"instal",
 						"Package Control: Install Package"
 					],
@@ -275,10 +308,6 @@
 					[
 						"phpu",
 						"PHPUnit: Test Suite"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
 					],
 					[
 						"insta",
@@ -325,17 +354,25 @@
 			},
 			"file_history":
 			[
+				"/home/jeremy/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
+				"/home/jeremy/code/ococ/artisan",
+				"/home/jeremy/code/ococ/resources/views/clients/seasons/index.blade.php",
+				"/home/jeremy/code/ococ/app/Http/Controllers/PdfController.php",
+				"/home/jeremy/code/ococ/public/css/cert-grid.css",
+				"/home/jeremy/code/ococ/app/Http/Controllers/ClientProductController.php",
+				"/home/jeremy/code/ococ/app/Program.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_product.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/products/index.blade.php",
+				"/home/jeremy/code/ococ/app/Product.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/ClientAddressController.php",
 				"/home/jeremy/code/ococ/config/debugbar.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_contact.blade.php",
 				"/home/jeremy/code/ococ/app/Client.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_product.blade.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/ClientContactController.php",
 				"/home/jeremy/code/ococ/config/session.php",
 				"/home/jeremy/code/ococ/config/app.php",
 				"/home/jeremy/code/ococ/.env",
 				"/home/jeremy/code/ococ/node_modules/cssnano/node_modules/postcss/lib/stringifier.js",
-				"/home/jeremy/code/ococ/app/Http/Controllers/PdfController.php",
 				"/home/jeremy/code/ococ/app/FieldSeason.php",
 				"/home/jeremy/code/ococ/app/Field.php",
 				"/home/jeremy/code/ococ/resources/views/clients/fieldhistory/index.blade.php",
@@ -388,7 +425,6 @@
 				"/home/jeremy/code/ococ/app/Providers/AppServiceProvider.php",
 				"/home/jeremy/code/ococ/app/CropField.php",
 				"/home/jeremy/code/ococ/app/Farm.php",
-				"/home/jeremy/code/ococ/resources/views/clients/seasons/index.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/seasons/create.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_season.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/fields/index.blade.php",
@@ -412,10 +448,8 @@
 				"/home/jeremy/code/ococ/resources/views/clients/certificates.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_new_input.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/notices/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/products/index.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/show.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/products/show.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientProductController.php",
 				"/home/jeremy/code/ococ/resources/views/pdfs/cpl.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_partials/client_info.blade.php",
 				"/home/jeremy/code/ococ/resources/views/layouts/client.blade.php",
@@ -447,12 +481,7 @@
 				"/home/jeremy/code/ococ/vendor/barryvdh/laravel-dompdf/config/dompdf.php",
 				"/home/jeremy/code/ococ/resources/views/clients/notices/show.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_partials/contact_info.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/errors.blade.php",
-				"/home/jeremy/code/BookStack/composer.json",
-				"/home/jeremy/code/BookStack/.env",
-				"/home/jeremy/code/test-admin/package.json",
-				"/home/jeremy/code/alt_oid/app/models/certifier.rb",
-				"/home/jeremy/code/alt_oid/db/seeds.rb"
+				"/home/jeremy/code/ococ/resources/views/layouts/errors.blade.php"
 			],
 			"find":
 			{
@@ -471,6 +500,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"crop",
+					"150px",
+					"program",
 					"session cookie domain",
 					"cookie",
 					"protected $except",
@@ -524,6 +556,66 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"farm",
+						"app/Farm.php"
+					],
+					[
+						"fieldseas",
+						"app/FieldSeason.php"
+					],
+					[
+						"crop",
+						"app/Crop.php"
+					],
+					[
+						"client fieldhist",
+						"resources/views/clients/fieldhistory/index.blade.php"
+					],
+					[
+						"field",
+						"app/Field.php"
+					],
+					[
+						"seas",
+						"app/Season.php"
+					],
+					[
+						"season",
+						"resources/views/clients/seasons/index.blade.php"
+					],
+					[
+						"clientfil",
+						"app/Http/Controllers/ClientFieldhistoryController.php"
+					],
+					[
+						"pdfcon",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"cert.b",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"progra",
+						"app/Program.php"
+					],
+					[
+						"product",
+						"app/Product.php"
+					],
+					[
+						"clientpro",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"clients product",
+						"resources/views/clients/products/index.blade.php"
+					],
+					[
+						"add_produc",
+						"resources/views/_modals/add_product.blade.php"
+					],
 					[
 						"clientfield",
 						"app/Http/Controllers/ClientFieldhistoryController.php"
@@ -581,10 +673,6 @@
 						"resources/views/clients/fieldhistory/index.blade.php"
 					],
 					[
-						"clientfil",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
 						"modelfa",
 						"database/factories/ModelFactory.php"
 					],
@@ -623,18 +711,6 @@
 					[
 						"edit conta",
 						"resources/views/_modals/edit_contact.blade.php"
-					],
-					[
-						"seas",
-						"app/Season.php"
-					],
-					[
-						"field",
-						"app/Field.php"
-					],
-					[
-						"client fieldhist",
-						"resources/views/clients/fieldhistory/index.blade.php"
 					],
 					[
 						"fieldhist",
@@ -731,10 +807,6 @@
 					[
 						"client notices index",
 						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"fieldseas",
-						"app/FieldSeason.php"
 					],
 					[
 						"field history index",
@@ -909,10 +981,6 @@
 						"composer.json"
 					],
 					[
-						"pdfcon",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
 						"config app",
 						"config/app.php"
 					],
@@ -973,10 +1041,6 @@
 						"app/models/certifier.rb"
 					],
 					[
-						"cert.b",
-						"resources/views/pdfs/cert.blade.php"
-					],
-					[
 						"cert4",
 						"resources/views/pdfs/cert4.blade.php"
 					],
@@ -1015,7 +1079,7 @@
 			{
 			}
 		},
-		"new_window_width": 1585.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -1024,6 +1088,38 @@
 			{
 				"selected_items":
 				[
+					[
+						"fieldseas",
+						"fieldseason"
+					],
+					[
+						"FieldSeas",
+						"FieldSeason::all"
+					],
+					[
+						"belongsto",
+						"belongsToMany"
+					],
+					[
+						"alig",
+						"align-self\tproperty"
+					],
+					[
+						"just",
+						"justify-content\tproperty"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"paddin",
+						"padding-right\tproperty"
+					],
+					[
+						"bac",
+						"background\tproperty"
+					],
 					[
 						"cat",
 						"categories"
@@ -1063,10 +1159,6 @@
 					[
 						"onecer",
 						"onecert-seal.png"
-					],
-					[
-						"padd",
-						"padding-left\tproperty"
 					],
 					[
 						"onc",
@@ -1167,10 +1259,6 @@
 					[
 						"rgb",
 						"rgba()\tbackground-color"
-					],
-					[
-						"just",
-						"justify-content-between \tBootstrap 4 Class"
 					],
 					[
 						"d",
@@ -1238,6 +1326,10 @@
 				"selected_items":
 				[
 					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
 						"instal",
 						"Package Control: Install Package"
 					],
@@ -1272,10 +1364,6 @@
 					[
 						"phpu",
 						"PHPUnit: Test Suite"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
 					],
 					[
 						"insta",
@@ -1322,17 +1410,25 @@
 			},
 			"file_history":
 			[
+				"/home/jeremy/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
+				"/home/jeremy/code/ococ/artisan",
+				"/home/jeremy/code/ococ/resources/views/clients/seasons/index.blade.php",
+				"/home/jeremy/code/ococ/app/Http/Controllers/PdfController.php",
+				"/home/jeremy/code/ococ/public/css/cert-grid.css",
+				"/home/jeremy/code/ococ/app/Http/Controllers/ClientProductController.php",
+				"/home/jeremy/code/ococ/app/Program.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_product.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/products/index.blade.php",
+				"/home/jeremy/code/ococ/app/Product.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/ClientAddressController.php",
 				"/home/jeremy/code/ococ/config/debugbar.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_contact.blade.php",
 				"/home/jeremy/code/ococ/app/Client.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_product.blade.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/ClientContactController.php",
 				"/home/jeremy/code/ococ/config/session.php",
 				"/home/jeremy/code/ococ/config/app.php",
 				"/home/jeremy/code/ococ/.env",
 				"/home/jeremy/code/ococ/node_modules/cssnano/node_modules/postcss/lib/stringifier.js",
-				"/home/jeremy/code/ococ/app/Http/Controllers/PdfController.php",
 				"/home/jeremy/code/ococ/app/FieldSeason.php",
 				"/home/jeremy/code/ococ/app/Field.php",
 				"/home/jeremy/code/ococ/resources/views/clients/fieldhistory/index.blade.php",
@@ -1385,7 +1481,6 @@
 				"/home/jeremy/code/ococ/app/Providers/AppServiceProvider.php",
 				"/home/jeremy/code/ococ/app/CropField.php",
 				"/home/jeremy/code/ococ/app/Farm.php",
-				"/home/jeremy/code/ococ/resources/views/clients/seasons/index.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/seasons/create.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_season.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/fields/index.blade.php",
@@ -1409,10 +1504,8 @@
 				"/home/jeremy/code/ococ/resources/views/clients/certificates.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_new_input.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/notices/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/products/index.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/show.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/products/show.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientProductController.php",
 				"/home/jeremy/code/ococ/resources/views/pdfs/cpl.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_partials/client_info.blade.php",
 				"/home/jeremy/code/ococ/resources/views/layouts/client.blade.php",
@@ -1444,12 +1537,7 @@
 				"/home/jeremy/code/ococ/vendor/barryvdh/laravel-dompdf/config/dompdf.php",
 				"/home/jeremy/code/ococ/resources/views/clients/notices/show.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_partials/contact_info.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/errors.blade.php",
-				"/home/jeremy/code/BookStack/composer.json",
-				"/home/jeremy/code/BookStack/.env",
-				"/home/jeremy/code/test-admin/package.json",
-				"/home/jeremy/code/alt_oid/app/models/certifier.rb",
-				"/home/jeremy/code/alt_oid/db/seeds.rb"
+				"/home/jeremy/code/ococ/resources/views/layouts/errors.blade.php"
 			],
 			"find":
 			{
@@ -1468,6 +1556,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"crop",
+					"150px",
+					"program",
 					"session cookie domain",
 					"cookie",
 					"protected $except",
@@ -1532,7 +1623,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "1,1,0,0,0,0,32,1585,1168,3840,1200",
+			"position": "0,1,0,0,0,0,0,0,0,3840,1200",
 			"replace":
 			{
 				"height": 66.0
@@ -1544,6 +1635,66 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"farm",
+						"app/Farm.php"
+					],
+					[
+						"fieldseas",
+						"app/FieldSeason.php"
+					],
+					[
+						"crop",
+						"app/Crop.php"
+					],
+					[
+						"client fieldhist",
+						"resources/views/clients/fieldhistory/index.blade.php"
+					],
+					[
+						"field",
+						"app/Field.php"
+					],
+					[
+						"seas",
+						"app/Season.php"
+					],
+					[
+						"season",
+						"resources/views/clients/seasons/index.blade.php"
+					],
+					[
+						"clientfil",
+						"app/Http/Controllers/ClientFieldhistoryController.php"
+					],
+					[
+						"pdfcon",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"cert.b",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"progra",
+						"app/Program.php"
+					],
+					[
+						"product",
+						"app/Product.php"
+					],
+					[
+						"clientpro",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"clients product",
+						"resources/views/clients/products/index.blade.php"
+					],
+					[
+						"add_produc",
+						"resources/views/_modals/add_product.blade.php"
+					],
 					[
 						"clientfield",
 						"app/Http/Controllers/ClientFieldhistoryController.php"
@@ -1601,10 +1752,6 @@
 						"resources/views/clients/fieldhistory/index.blade.php"
 					],
 					[
-						"clientfil",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
 						"modelfa",
 						"database/factories/ModelFactory.php"
 					],
@@ -1643,18 +1790,6 @@
 					[
 						"edit conta",
 						"resources/views/_modals/edit_contact.blade.php"
-					],
-					[
-						"seas",
-						"app/Season.php"
-					],
-					[
-						"field",
-						"app/Field.php"
-					],
-					[
-						"client fieldhist",
-						"resources/views/clients/fieldhistory/index.blade.php"
 					],
 					[
 						"fieldhist",
@@ -1751,10 +1886,6 @@
 					[
 						"client notices index",
 						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"fieldseas",
-						"app/FieldSeason.php"
 					],
 					[
 						"field history index",
@@ -1929,10 +2060,6 @@
 						"composer.json"
 					],
 					[
-						"pdfcon",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
 						"config app",
 						"config/app.php"
 					],
@@ -1991,10 +2118,6 @@
 					[
 						"certif",
 						"app/models/certifier.rb"
-					],
-					[
-						"cert.b",
-						"resources/views/pdfs/cert.blade.php"
 					],
 					[
 						"cert4",
