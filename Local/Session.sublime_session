@@ -2,18 +2,35 @@
 	"folder_history":
 	[
 		"/home/jeremy/code/ococ",
+		"/home/jeremy/code/ldd-oid",
+		"/home/jeremy/code",
+		"/home/jeremy/code/vue-design-system",
 		"/home/jeremy/Downloads/wp",
+		"/home/jeremy/code/blog",
+		"/home/jeremy/code/laravel-oid",
+		"/home/jeremy/code/alt_oid",
+		"/home/jeremy/code/test",
+		"/home/jeremy/code/Laravel-Datatables-Demo",
+		"/home/jeremy/code/nova-oid-datatables",
+		"/home/jeremy/code/nova-oid",
+		"/home/jeremy/code/portfolio-vuepress",
+		"/home/jeremy/code/hugotest",
+		"/home/jeremy/code/cssgrid-playground",
+		"/home/jeremy/Downloads/lhid-massimo-grid-5285b1f",
+		"/home/jeremy/code/voyager-test",
+		"/home/jeremy/code/grafite-crud",
+		"/home/jeremy/code/grafite-test",
+		"/home/jeremy/code/portfolio-laravel-test",
+		"/home/jeremy/code/laravel-5-boilerplate",
 		"/home/jeremy/Downloads/PerfectFluidWidthLayout/PerfectFluidWidthLayout",
 		"/home/jeremy/code/ococ-laradock",
 		"/home/jeremy/code/laradock",
 		"/home/jeremy/code/mobx-state-tree/packages/mst-example-bookshop",
-		"/home/jeremy/code/alt_oid",
 		"/home/jeremy/code/testApp",
 		"/home/jeremy/code/css-grid",
 		"/home/jeremy/code/laravel-event-projector-demo-app",
 		"/home/jeremy/code/ticketbeast",
 		"/home/jeremy/code/ticketbeast1",
-		"/home/jeremy/code",
 		"/home/jeremy/code/jigsaw-test",
 		"/home/jeremy/code/tailwind-demo",
 		"/home/jeremy/code/backpack-demo",
@@ -22,7 +39,7 @@
 		"/home/jeremy/code/test-admin"
 	],
 	"last_version": 3176,
-	"last_window_id": 69,
+	"last_window_id": 141,
 	"log_indexing": false,
 	"settings":
 	{
@@ -33,6 +50,310 @@
 			{
 				"selected_items":
 				[
+					[
+						"certificate",
+						"certificate_number\t(UsdaCertificate.php)"
+					],
+					[
+						"Usda",
+						"UsdaProduct\t(UsdaCertificate.php)"
+					],
+					[
+						"anniver",
+						"anniversary_date"
+					],
+					[
+						"client",
+						"client_id"
+					],
+					[
+						"mail",
+						"mailing_address\t(BaseCertificate.php)"
+					],
+					[
+						"clien",
+						"client_name"
+					],
+					[
+						"App",
+						"App\\Lead"
+					],
+					[
+						"valid",
+						"validatedData"
+					],
+					[
+						"val",
+						"validatedData"
+					],
+					[
+						"first",
+						"first_name"
+					],
+					[
+						"U",
+						"USER_SUBMITTED_TYPE"
+					],
+					[
+						"Post",
+						"PostController\t(PostController.php)"
+					],
+					[
+						"sort",
+						"sortable"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"list-grou-",
+						"list-group-item \tBootstrap 4 Class"
+					],
+					[
+						"contact",
+						"contact_first_name"
+					],
+					[
+						"full",
+						"full_name\t(Operation.php)"
+					],
+					[
+						"livestoc",
+						"livestock_additional_products"
+					],
+					[
+						"crops",
+						"crops_additional_products"
+					],
+					[
+						"operation",
+						"operation_id"
+					],
+					[
+						"certif",
+						"certification_status_effective_on"
+					],
+					[
+						"Operat",
+						"OperationController"
+					],
+					[
+						"phyi",
+						"physical_country\t(OperationController.php)"
+					],
+					[
+						"phy",
+						"physical_city\t(OperationController.php)"
+					],
+					[
+						"contact_",
+						"contact_first_name\t(OperationController.php)"
+					],
+					[
+						"certifier",
+						"certifier_name\t(OperationController.php)"
+					],
+					[
+						"operat",
+						"operation_id\t(OperationController.php)"
+					],
+					[
+						"ph",
+						"physical_country\t(Operation.php)"
+					],
+					[
+						"contac",
+						"contact_last_name\t(server_side_script.php)"
+					],
+					[
+						"physic",
+						"physical_country"
+					],
+					[
+						"certi",
+						"certification_status"
+					],
+					[
+						"other",
+						"other_operation_names"
+					],
+					[
+						"certifi",
+						"certification_status\t(show.blade.php)"
+					],
+					[
+						"physi",
+						"physical_city"
+					],
+					[
+						"cert",
+						"certifier_name"
+					],
+					[
+						"Contr",
+						"Controller"
+					],
+					[
+						"paddin",
+						"padding-bottom\tproperty"
+					],
+					[
+						"border-rad",
+						"border-bottom-left-radius\tproperty"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"btn-primar",
+						"btn-outline-primary \tBootstrap 4 Class"
+					],
+					[
+						"product",
+						"product_list"
+					],
+					[
+						"prod",
+						"product_list"
+					],
+					[
+						"lives",
+						"livestock_status_effective_on"
+					],
+					[
+						"crop_",
+						"crops_status_effective_on"
+					],
+					[
+						"border-c",
+						"border-color\tproperty"
+					],
+					[
+						"padd",
+						"padding-bottom\tproperty"
+					],
+					[
+						"no",
+						"none\tborder"
+					],
+					[
+						"operation_",
+						"operation_id\t(test.blade)"
+					],
+					[
+						"inln",
+						"inline-block\tdisplay"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"unst",
+						"list-unstyled \tBootstrap 4 Class"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"margi",
+						"margin-left\tproperty"
+					],
+					[
+						"text",
+						"text-center"
+					],
+					[
+						"padding",
+						"padding-bottom\tproperty"
+					],
+					[
+						"line",
+						"line-height\tproperty"
+					],
+					[
+						"to",
+						"top\tvertical-align"
+					],
+					[
+						"ali",
+						"align-items\tproperty"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"marg",
+						"margin-left\tproperty"
+					],
+					[
+						"inl",
+						"inline-block-row"
+					],
+					[
+						"backg",
+						"background-color\tproperty"
+					],
+					[
+						"col-md",
+						"col-md-6"
+					],
+					[
+						"inline-",
+						"inline-flex\tdisplay"
+					],
+					[
+						"ceen",
+						"center\ttext-align"
+					],
+					[
+						"certifcate",
+						"certificate_number"
+					],
+					[
+						"cli",
+						"client_id"
+					],
+					[
+						"ingred",
+						"ingredient_name"
+					],
+					[
+						"type",
+						"type_id\t(Type.php)"
+					],
+					[
+						"sync",
+						"syncTypes"
+					],
+					[
+						"data-t",
+						"data-toggle"
+					],
+					[
+						"appro",
+						"approved_at"
+					],
+					[
+						"categ",
+						"categories"
+					],
+					[
+						"cate",
+						"categories"
+					],
+					[
+						"requ",
+						"request"
+					],
 					[
 						"fieldseas",
 						"fieldseason"
@@ -54,24 +375,12 @@
 						"justify-content\tproperty"
 					],
 					[
-						"padd",
-						"padding-right"
-					],
-					[
-						"paddin",
-						"padding-right\tproperty"
-					],
-					[
 						"bac",
 						"background\tproperty"
 					],
 					[
 						"cat",
 						"categories"
-					],
-					[
-						"clien",
-						"client"
 					],
 					[
 						"pr",
@@ -84,10 +393,6 @@
 					[
 						"program",
 						"program_id"
-					],
-					[
-						"product",
-						"product_name"
 					],
 					[
 						"Inpu",
@@ -186,20 +491,12 @@
 						"fieldhistory"
 					],
 					[
-						"client",
-						"client_id"
-					],
-					[
 						"crop",
 						"crop_id"
 					],
 					[
 						"transl",
 						"translateX()\ttransform"
-					],
-					[
-						"back",
-						"background-repeat\tproperty"
 					],
 					[
 						"rgb",
@@ -274,16 +571,44 @@
 						"Package Control: Install Package"
 					],
 					[
+						"xdebug",
+						"Xdebug: Stop Debugging (Close Windows)"
+					],
+					[
+						"x",
+						"Xdebug: Start Debugging"
+					],
+					[
+						"",
+						":TestNearest"
+					],
+					[
+						"phpuni",
+						"PHPUnit: Test Nearest"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
 						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"lorem",
+						"Add some Lorem Gibson"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						"",
-						":TestNearest"
 					],
 					[
 						"test",
@@ -302,16 +627,8 @@
 						"PHPUnit: Test File"
 					],
 					[
-						"phpuni",
-						"PHPUnit: Test File"
-					],
-					[
 						"phpu",
 						"PHPUnit: Test Suite"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"termin",
@@ -354,145 +671,144 @@
 			},
 			"file_history":
 			[
-				"/home/jeremy/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
-				"/home/jeremy/code/ococ/artisan",
-				"/home/jeremy/code/ococ/resources/views/clients/seasons/index.blade.php",
+				"/home/jeremy/code/ococ/OneCert/Common/Shared/ServiceContractBase.php",
+				"/home/jeremy/code/ococ/.env",
+				"/home/jeremy/code/ococ/OneCert/Accessors/DataTransferObjects/UsdaCertificate.php",
+				"/home/jeremy/code/ococ/OneCert/Contracts/Website/UsdaProduct.php",
+				"/home/jeremy/code/ococ/app/Client.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/PdfController.php",
-				"/home/jeremy/code/ococ/public/css/cert-grid.css",
+				"/home/jeremy/code/ococ/OneCert/Contracts/Enums/UsdaScopes.php",
+				"/home/jeremy/code/ococ/tests/CreatesApplication.php",
+				"/home/jeremy/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+				"/home/jeremy/.config/sublime-text-3/Packages/PHPUnitKit/Preferences.sublime-settings",
+				"/home/jeremy/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/jeremy/code/ococ/OneCert/Accessors/Certificates/CertificateAccessor.php",
+				"/home/jeremy/code/ococ/app/Certificate.php",
+				"/home/jeremy/code/ococ/OneCert/Accessors/AccessorBase.php",
+				"/home/jeremy/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-mousemap",
+				"/home/jeremy/.config/sublime-text-3/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+				"/home/jeremy/code/ococ/app/Anniversary.php",
+				"/home/jeremy/code/ococ/app/User.php",
+				"/home/jeremy/code/ococ/composer.json",
+				"/home/jeremy/code/ococ/resources/views/pdfs/cert2.blade.php",
+				"/home/jeremy/code/ococ/composer.lock",
+				"/home/jeremy/code/ococ/database/seeds/DatabaseSeeder.php",
+				"/home/jeremy/code/blog/app/Providers/AuthServiceProvider.php",
+				"/home/jeremy/code/blog/app/Nova/User.php",
+				"/home/jeremy/code/blog/app/Nova/Lenses/TimeIntensiveLeads.php",
+				"/home/jeremy/code/blog/app/Lead.php",
+				"/home/jeremy/code/blog/app/Nova/Filters/LeadType.php",
+				"/home/jeremy/code/blog/app/Nova/Metrics/LeadsPerDay.php",
+				"/home/jeremy/code/blog/app/Nova/Metrics/LeadsPerStatus.php",
+				"/home/jeremy/code/blog/app/Nova/Filters/LeadStatus.php",
+				"/home/jeremy/code/blog/database/migrations/2018_09_06_135157_create_notes_table.php",
+				"/home/jeremy/code/blog/app/Note.php",
+				"/home/jeremy/code/blog/resources/views/post.blade.php",
+				"/home/jeremy/code/blog/resources/views/welcome.blade.php",
+				"/home/jeremy/code/blog/routes/web.php",
+				"/home/jeremy/code/blog/app/Http/Controllers/LeadController.php",
+				"/home/jeremy/code/blog/app/User.php",
+				"/home/jeremy/code/blog/database/migrations/2018_09_06_135149_create_leads_table.php",
+				"/home/jeremy/code/blog/app/Http/Controllers/PostController.php",
+				"/home/jeremy/code/blog/app/Nova/Post.php",
+				"/home/jeremy/code/blog/app/Nova/Resource.php",
+				"/home/jeremy/code/blog/app/Post.php",
+				"/home/jeremy/code/blog/database/migrations/2018_09_06_133115_create_posts_table.php",
+				"/home/jeremy/code/blog/resources/views/posts.blade.php",
+				"/home/jeremy/code/blog/.env",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/views/_modals/search-tips.blade.php",
+				"/home/jeremy/code/ldd-oid/public/css/app.css",
+				"/home/jeremy/code/ldd-oid/resources/views/operations/index.blade.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Controllers/HomeController.php",
+				"/home/jeremy/code/ldd-oid/app/Certifier.php",
+				"/home/jeremy/code/ldd-oid/app/Operation.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Controllers/APIController.php",
+				"/home/jeremy/code/ldd-oid/routes/web.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Controllers/OperationController.php",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/modals/search-tips.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/footer.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/navbar.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/assets/js/app.js",
+				"/home/jeremy/code/ldd-oid/resources/views/operations/show.blade.php",
+				"/home/jeremy/code/ldd-oid/.env",
+				"/home/jeremy/code/ldd-oid/composer.json",
+				"/home/jeremy/code/ldd-oid/routes/api.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Middleware/TrustProxies.php",
+				"/home/jeremy/code/Laravel-Datatables-Demo/config/app.php",
+				"/home/jeremy/code/Laravel-Datatables-Demo/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/laravel-oid/.env",
+				"/home/jeremy/code/ococ/app/Crop.php",
+				"/home/jeremy/code/laravel-oid/resources/views/datatables/index.blade.php",
+				"/home/jeremy/code/laravel-oid/app/Http/Controllers/DatatablesController.php",
+				"/home/jeremy/code/laravel-oid/config/app.php",
+				"/home/jeremy/code/laravel-oid/app/Http/Controllers/Ajax/OperationController.php",
+				"/home/jeremy/code/laravel-oid/app/Http/Controllers/OperationController.php",
+				"/tmp/mozilla_jeremy0/process2.php",
+				"/home/jeremy/code/laravel-oid/app/Certifier.php",
+				"/home/jeremy/code/laravel-oid/app/Operation.php",
+				"/home/jeremy/code/laravel-oid/resources/views/layouts/navbar.blade.php",
+				"/home/jeremy/code/laravel-oid/config/logging.php",
+				"/home/jeremy/code/laravel-oid/storage/logs/laravel.log",
+				"/home/jeremy/Downloads/GetAllOperationsPublicData (1)/stream",
+				"/home/jeremy/code/alt_oid/app/views/operations/index.html.erb",
+				"/home/jeremy/code/laravel-oid/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/index.blade.php",
+				"/home/jeremy/code/laravel-oid/resources/views/operations/test.blade",
+				"/home/jeremy/code/alt_oid/app/models/operation.rb",
+				"/home/jeremy/code/alt_oid/app/views/operations/show.html.erb",
+				"/home/jeremy/code/blog/config/database.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/ClientProductController.php",
-				"/home/jeremy/code/ococ/app/Program.php",
+				"/home/jeremy/code/ococ/resources/views/clients/pdfs.blade.php",
+				"/home/jeremy/code/ococ/app/Livestock.php",
+				"/home/jeremy/code/ococ/resources/views/pdfs/cert.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_product.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/products/index.blade.php",
-				"/home/jeremy/code/ococ/app/Product.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientAddressController.php",
-				"/home/jeremy/code/ococ/config/debugbar.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_contact.blade.php",
-				"/home/jeremy/code/ococ/app/Client.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientContactController.php",
-				"/home/jeremy/code/ococ/config/session.php",
-				"/home/jeremy/code/ococ/config/app.php",
-				"/home/jeremy/code/ococ/.env",
-				"/home/jeremy/code/ococ/node_modules/cssnano/node_modules/postcss/lib/stringifier.js",
-				"/home/jeremy/code/ococ/app/FieldSeason.php",
-				"/home/jeremy/code/ococ/app/Field.php",
-				"/home/jeremy/code/ococ/resources/views/clients/fieldhistory/index.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientFieldhistoryController.php",
-				"/home/jeremy/code/ococ/app/Season.php",
-				"/home/jeremy/code/laravel-event-projector-demo-app/database/migrations/2018_05_21_184753_create_accounts_table.php",
-				"/home/jeremy/code/laravel-event-projector-demo-app/.env",
-				"/home/jeremy/code/ticketbeast/app/Concert.php",
-				"/home/jeremy/code/ticketbeast/database/seeds/DatabaseSeeder.php",
-				"/home/jeremy/code/ticketbeast/database/migrations/2018_07_12_190654_create_concerts_table.php",
-				"/home/jeremy/code/ticketbeast/resources/views/concerts/show.blade.php",
-				"/home/jeremy/code/ticketbeast/config/database.php",
-				"/home/jeremy/code/ticketbeast/.env",
-				"/home/jeremy/code/ticketbeast/phpunit.xml",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/jeremy/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
-				"/home/jeremy/.config/sublime-text-3/Packages/PHPUnitKit/README.md",
-				"/home/jeremy/.config/sublime-text-3/Packages/PHPUnitKit/Preferences.sublime-settings",
-				"/home/jeremy/code/ticketbeast/database/factories/UserFactory.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/test-function.sublime-snippet",
-				"/home/jeremy/code/ticketbeast/routes/web.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_contact.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientSeasonController.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_address.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientController.php",
-				"/home/jeremy/code/ococ/resources/views/notices/index.blade.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/php.sublime-build",
-				"/home/jeremy/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
-				"/home/jeremy/code/ococ/app/Notice.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/NoticeController.php",
-				"/home/jeremy/code/ococ/resources/views/clients/tasks/index.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/TaskController.php",
 				"/home/jeremy/code/ococ/routes/web.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientNoticeController.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/InputsController.php",
-				"/home/jeremy/code/ococ/resources/views/clients/index.blade.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/snippets/Constructor.sublime-snippet",
-				"/home/jeremy/code/ococ/app/RelatedOperations.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/snippets/PHP Protected Method.sublime-snippet",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/snippets/PHP Method.sublime-snippet",
-				"/home/jeremy/code/ococ/app/User.php",
-				"/home/jeremy/code/ococ/app/Crop.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
-				"/home/jeremy/.config/sublime-text-3/Packages/Origami/Default (Linux).sublime-keymap",
-				"/home/jeremy/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
-				"/home/jeremy/code/ococ/config/erd-generator.php",
-				"/home/jeremy/code/ococ/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ContactController.php",
-				"/home/jeremy/code/ococ/app/Providers/AppServiceProvider.php",
-				"/home/jeremy/code/ococ/app/CropField.php",
-				"/home/jeremy/code/ococ/app/Farm.php",
-				"/home/jeremy/code/ococ/resources/views/clients/seasons/create.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_season.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/fields/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/app.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_client_season.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientFieldController.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_farm.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/farms/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_field.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/farms/create.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/crops/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_program_scope.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/fieldhistory/show.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/contacts.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/_farms.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_client.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_client.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientCropController.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_notice.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_crop.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/certificates.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_input.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/notices/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/show.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/products/show.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_contact.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_input.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_phone.blade.php",
+				"/home/jeremy/code/ococ/storage/fonts/Helvetica.afm.php",
+				"/home/jeremy/code/ococ/config/dompdf.php",
+				"/home/jeremy/code/ococ/storage/fonts/OpenSans-Bold.afm.php",
+				"/home/jeremy/code/ococ/storage/fonts/Helvetica-Bold.afm.php",
+				"/home/jeremy/code/ococ/storage/fonts/OpenSans-Bold.ttf",
 				"/home/jeremy/code/ococ/resources/views/pdfs/cpl.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_partials/client_info.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/client.blade.php",
-				"/home/jeremy/code/ococ/app/Certificate.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/sidebar.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/pdfs.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/certifications.blade.php",
-				"/home/jeremy/code/ococ/resources/views/home.blade.php",
-				"/home/jeremy/code/ococ/resources/assets/css/app.css",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientCertificationController.php",
-				"/home/jeremy/code/ococ/resources/views/help.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/HelpController.php",
-				"/home/jeremy/code/ococ/vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php",
-				"/home/jeremy/code/ococ/composer.json",
-				"/home/jeremy/code/ococ/resources/views/_partials/form/contact.blade.php",
-				"/home/jeremy/code/ococ/resources/views/pdfs/cert.blade.php",
-				"/home/jeremy/Downloads/cert.blade.php",
-				"/home/jeremy/code/ococ/resources/views/pdfs/cert2.blade.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/TerminalView/README.md",
 				"/home/jeremy/code/ococ/public/css/cert.css",
-				"/home/jeremy/code/ococ/composer.lock",
-				"/home/jeremy/code/ococ/config/snappy.php",
-				"/home/jeremy/Downloads/cert-snappy.blade.php",
-				"/home/jeremy/code/ococ/vendor/niklasravnsborg/laravel-pdf/src/LaravelPdf/Pdf.php",
-				"/home/jeremy/code/ococ/config/pdf.php",
-				"/home/jeremy/code/ococ/vendor/niklasravnsborg/laravel-pdf/src/LaravelPdf/Facades/Pdf.php",
-				"/home/jeremy/code/ococ/public/css/cert-snappy.css",
-				"/home/jeremy/Downloads/cert-old.blade.php",
-				"/home/jeremy/code/ococ/vendor/barryvdh/laravel-dompdf/config/dompdf.php",
-				"/home/jeremy/code/ococ/resources/views/clients/notices/show.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_partials/contact_info.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/errors.blade.php"
+				"/home/jeremy/code/ococ/vendor/psy/psysh/test/fixtures/default/.config/psysh/config.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_new_client.blade.php",
+				"/home/jeremy/code/ococ/app/Type.php",
+				"/home/jeremy/code/ococ/app/Http/Controllers/ClientIngredientController.php",
+				"/home/jeremy/code/ococ/resources/views/layouts/client.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/ingredients/index.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_new_notice.blade.php",
+				"/home/jeremy/code/ococ/app/Http/Controllers/ClientController.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/edit_client.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/show.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_partials/client_info.blade.php",
+				"/home/jeremy/code/ococ/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/ococ/public/css/app.css",
+				"/home/jeremy/code/ococ/app/Http/Middleware/VerifyCsrfToken.php",
+				"/home/jeremy/code/ococ/config/session.php",
+				"/home/jeremy/code/ococ/app/Exceptions/Handler.php",
+				"/home/jeremy/code/ococ/vendor/genealabs/laravel-caffeine/config/genealabs-laravel-caffeine.php",
+				"/home/jeremy/code/ococ/config/app.php",
+				"/home/jeremy/code/ococ/resources/views/errors/404.blade.php",
+				"/home/jeremy/code/ococ/resources/views/errors/500.blade.php",
+				"/home/jeremy/code/ococ/resources/views/errors/419.blade.php",
+				"/home/jeremy/code/ococ/app/Http/Middleware/TrustProxies.php",
+				"/home/jeremy/code/ococ/app/Http/Kernel.php",
+				"/home/jeremy/code/ococ/app/Product.php"
 			],
 			"find":
 			{
-				"height": 73.0
+				"height": 75.0
 			},
 			"find_in_files":
 			{
-				"height": 167.0,
+				"height": 173.0,
 				"where_history":
 				[
-					""
 				]
 			},
 			"find_state":
@@ -500,15 +816,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"crop",
-					"150px",
-					"program",
-					"session cookie domain",
-					"cookie",
-					"protected $except",
-					"except",
-					"return back",
-					"program"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -525,7 +832,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 35.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -544,10 +851,14 @@
 			{
 				"height": 0.0
 			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 66.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -557,16 +868,420 @@
 				"selected_items":
 				[
 					[
+						"client",
+						"app/Client.php"
+					],
+					[
+						"cert.blad",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"pdf",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"cert2",
+						"resources/views/pdfs/cert2.blade.php"
+					],
+					[
+						"auths",
+						"app/Providers/AuthServiceProvider.php"
+					],
+					[
+						"leadcon",
+						"app/Http/Controllers/LeadController.php"
+					],
+					[
+						"we",
+						"routes/web.php"
+					],
+					[
+						"lead",
+						"app/Lead.php"
+					],
+					[
+						"lead.",
+						"app/Lead.php"
+					],
+					[
+						"user.",
+						"app/User.php"
+					],
+					[
+						"note.",
+						"app/Note.php"
+					],
+					[
+						"migrations",
+						"database/migrations/2018_09_06_135157_create_notes_table.php"
+					],
+					[
+						"migrations/",
+						"database/migrations/2018_09_06_135149_create_leads_table.php"
+					],
+					[
+						"web",
+						"routes/web.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"post.",
+						"app/Post.php"
+					],
+					[
+						"app",
+						"config/app.php"
+					],
+					[
+						"app.css",
+						"public/css/app.css"
+					],
+					[
+						"operationcontr",
+						"app/Http/Controllers/OperationController.php"
+					],
+					[
+						"certifer",
+						"app/Certifier.php"
+					],
+					[
+						"app.blad",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"operation",
+						"app/Operation.php"
+					],
+					[
+						"trust",
+						"app/Http/Middleware/TrustProxies.php"
+					],
+					[
+						"app.bl",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"index",
+						"resources/views/operations/index.blade.php"
+					],
+					[
+						"operationcon",
+						"app/Http/Controllers/OperationController.php"
+					],
+					[
+						"pdf.blad",
+						"resources/views/clients/pdfs.blade.php"
+					],
+					[
+						"layouts client",
+						"resources/views/layouts/client.blade.php"
+					],
+					[
+						"produc",
+						"app/Product.php"
+					],
+					[
+						"crop",
+						"app/Crop.php"
+					],
+					[
+						"pdfcon",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"cert.",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"config app",
+						"config/app.php"
+					],
+					[
+						"datatablecon",
+						"app/Http/Controllers/DatatablesController.php"
+					],
+					[
+						"operat",
+						"app/Operation.php"
+					],
+					[
+						"nav",
+						"resources/views/layouts/navbar.blade.php"
+					],
+					[
+						"certifier",
+						"app/Certifier.php"
+					],
+					[
+						"lara",
+						"storage/logs/laravel.log"
+					],
+					[
+						"laravel",
+						"storage/logs/laravel.log"
+					],
+					[
+						"loggi",
+						"config/logging.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"laravel.",
+						"storage/logs/laravel.log"
+					],
+					[
+						"ind",
+						"resources/views/operations/index.blade.php"
+					],
+					[
+						"show.",
+						"resources/views/operations/show.blade.php"
+					],
+					[
+						"larav",
+						"storage/logs/laravel.log"
+					],
+					[
+						"app.b",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"test.",
+						"resources/views/operations/test.blade"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"cert.b",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"clietpro",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"add pr",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"clients produc",
+						"resources/views/clients/products/index.blade.php"
+					],
+					[
+						"clientpro",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"add phon",
+						"resources/views/_modals/add_phone.blade.php"
+					],
+					[
+						"add",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"add produ",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"pdfs.",
+						"resources/views/clients/pdfs.blade.php"
+					],
+					[
+						"dompdf",
+						"config/dompdf.php"
+					],
+					[
+						"cert.css",
+						"public/css/cert.css"
+					],
+					[
+						"pdfcontroller",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"pdfconf",
+						"vendor/psy/psysh/test/fixtures/default/.config/psysh/config.php"
+					],
+					[
+						"pdfcont",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"clientcon",
+						"app/Http/Controllers/ClientController.php"
+					],
+					[
+						"clientingre",
+						"app/Http/Controllers/ClientIngredientController.php"
+					],
+					[
+						"add new client",
+						"resources/views/_modals/add_new_client.blade.php"
+					],
+					[
+						"ingredients",
+						"resources/views/clients/ingredients/index.blade.php"
+					],
+					[
+						"ingredient",
+						"app/Http/Controllers/ClientIngredientController.php"
+					],
+					[
+						"edit client",
+						"resources/views/_modals/edit_client.blade.php"
+					],
+					[
+						"clientcontro",
+						"app/Http/Controllers/ClientController.php"
+					],
+					[
+						"add notice",
+						"resources/views/_modals/add_new_notice.blade.php"
+					],
+					[
+						"add new l",
+						"resources/views/_modals/add_new_client.blade.php"
+					],
+					[
+						"type",
+						"app/Type.php"
+					],
+					[
+						"verifycs",
+						"app/Http/Middleware/VerifyCsrfToken.php"
+					],
+					[
+						"handler",
+						"app/Exceptions/Handler.php"
+					],
+					[
+						"config/ses",
+						"config/session.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"add phone",
+						"resources/views/_modals/add_phone.blade.php"
+					],
+					[
+						"web r",
+						"routes/web.php"
+					],
+					[
+						"han",
+						"app/Exceptions/Handler.php"
+					],
+					[
+						"compo",
+						"composer.lock"
+					],
+					[
+						"",
+						"composer.json"
+					],
+					[
+						".e",
+						".env"
+					],
+					[
+						"add pro",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"session",
+						"config/session.php"
+					],
+					[
+						"web ",
+						"routes/web.php"
+					],
+					[
+						"web routes",
+						"routes/web.php"
+					],
+					[
+						"app.blade",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"config sess",
+						"config/session.php"
+					],
+					[
+						"routes we",
+						"routes/web.php"
+					],
+					[
+						"clientnot",
+						"app/Http/Controllers/ClientNoticeController.php"
+					],
+					[
+						"productcontr",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"noticecontr",
+						"app/Http/Controllers/NoticeController.php"
+					],
+					[
+						"produ",
+						"app/Product.php"
+					],
+					[
+						"notice.",
+						"app/Notice.php"
+					],
+					[
+						"notices index",
+						"resources/views/clients/notices/index.blade.php"
+					],
+					[
+						"clientproduct",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"config/sess",
+						"config/session.php"
+					],
+					[
+						"client fieldhistory",
+						"app/Http/Controllers/ClientFieldhistoryController.php"
+					],
+					[
+						"clientprodu",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"client products index",
+						"resources/views/clients/products/index.blade.php"
+					],
+					[
 						"farm",
 						"app/Farm.php"
 					],
 					[
 						"fieldseas",
 						"app/FieldSeason.php"
-					],
-					[
-						"crop",
-						"app/Crop.php"
 					],
 					[
 						"client fieldhist",
@@ -589,24 +1304,12 @@
 						"app/Http/Controllers/ClientFieldhistoryController.php"
 					],
 					[
-						"pdfcon",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.b",
-						"resources/views/pdfs/cert.blade.php"
-					],
-					[
 						"progra",
 						"app/Program.php"
 					],
 					[
 						"product",
 						"app/Product.php"
-					],
-					[
-						"clientpro",
-						"app/Http/Controllers/ClientProductController.php"
 					],
 					[
 						"clients product",
@@ -619,14 +1322,6 @@
 					[
 						"clientfield",
 						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"produc",
-						"app/Product.php"
-					],
-					[
-						".env",
-						".env"
 					],
 					[
 						"cert",
@@ -645,28 +1340,12 @@
 						"app/Http/Controllers/ClientProductController.php"
 					],
 					[
-						"client",
-						"app/Client.php"
-					],
-					[
 						"cert-bo",
 						"resources/views/pdfs/cert-bootstrap.blade.php"
 					],
 					[
-						"pdf",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
 						"pdfcontr",
 						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.css",
-						"public/css/cert.css"
-					],
-					[
-						"cert.blad",
-						"resources/views/pdfs/cert.blade.php"
 					],
 					[
 						"clientfieldhistory index",
@@ -697,356 +1376,8 @@
 						"app/Concert.php"
 					],
 					[
-						"web",
-						"routes/web.php"
-					],
-					[
 						"viewconc",
 						"tests/Feature/ViewConcertListingTest.php"
-					],
-					[
-						"route we",
-						"routes/web.php"
-					],
-					[
-						"edit conta",
-						"resources/views/_modals/edit_contact.blade.php"
-					],
-					[
-						"fieldhist",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"clientcont",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"clientconta",
-						"app/Http/Controllers/ClientContactController.php"
-					],
-					[
-						"clientcon",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"fieldse",
-						"app/FieldSeason.php"
-					],
-					[
-						"clientfi",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"notices index",
-						"resources/views/notices/index.blade.php"
-					],
-					[
-						"inputs index",
-						"resources/views/inputs/index.blade.php"
-					],
-					[
-						"tasks ind",
-						"resources/views/clients/tasks/index.blade.php"
-					],
-					[
-						"taskcont",
-						"app/Http/Controllers/TaskController.php"
-					],
-					[
-						"notices",
-						"resources/views/notices/index.blade.php"
-					],
-					[
-						"notice",
-						"app/Notice.php"
-					],
-					[
-						"clientcontroll",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"clients index",
-						"resources/views/clients/index.blade.php"
-					],
-					[
-						"clientfieldhi",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"clientseas",
-						"app/Http/Controllers/ClientSeasonController.php"
-					],
-					[
-						"",
-						"~/.config/sublime-text-3/Packages/User/snippets/PHP Protected Method.sublime-snippet"
-					],
-					[
-						"user.",
-						"app/User.php"
-					],
-					[
-						"client seasons",
-						"resources/views/clients/seasons/index.blade.php"
-					],
-					[
-						"parserab",
-						"vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php"
-					],
-					[
-						"fieldhistor",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"field history ind",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"client address",
-						"resources/views/clients/addresses.blade.php"
-					],
-					[
-						"client notices index",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"field history index",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"clients notices ind",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"fieldhistory",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"field history inde",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"add field",
-						"resources/views/_modals/add_field.blade.php"
-					],
-					[
-						"app.blade",
-						"resources/views/layouts/app.blade.php"
-					],
-					[
-						"clients field index",
-						"resources/views/clients/fields/index.blade.php"
-					],
-					[
-						"fieldseason",
-						"app/FieldSeason.php"
-					],
-					[
-						"seasons inde",
-						"resources/views/clients/seasons/index.blade.php"
-					],
-					[
-						"field.",
-						"app/Field.php"
-					],
-					[
-						"fieldhis",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"add scope",
-						"resources/views/_modals/add_program_scope.blade.php"
-					],
-					[
-						"add farm",
-						"resources/views/_modals/add_farm.blade.php"
-					],
-					[
-						"crops index",
-						"resources/views/clients/crops/index.blade.php"
-					],
-					[
-						"fields index",
-						"resources/views/clients/fields/index.blade.php"
-					],
-					[
-						"layouts/app",
-						"resources/views/layouts/app.blade.php"
-					],
-					[
-						"contact",
-						"resources/views/clients/contacts.blade.php"
-					],
-					[
-						"field show",
-						"resources/views/clients/fieldhistory/show.blade.php"
-					],
-					[
-						"client.",
-						"app/Client.php"
-					],
-					[
-						"add client",
-						"resources/views/_modals/add_new_client.blade.php"
-					],
-					[
-						"add contact",
-						"resources/views/_modals/add_contact.blade.php"
-					],
-					[
-						"clientcontroller",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"crop.php",
-						"app/Crop.php"
-					],
-					[
-						"clientnotice",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"clients notice",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"clientcrop",
-						"app/Http/Controllers/ClientCropController.php"
-					],
-					[
-						"web routes",
-						"routes/web.php"
-					],
-					[
-						"clients crops inde",
-						"resources/views/clients/crops/index.blade.php"
-					],
-					[
-						"clients farm",
-						"resources/views/clients/farms/index.blade.php"
-					],
-					[
-						"farm.",
-						"app/Farm.php"
-					],
-					[
-						"crop.",
-						"app/Crop.php"
-					],
-					[
-						"clients produ",
-						"resources/views/clients/products/show.blade.php"
-					],
-					[
-						"product.",
-						"app/Product.php"
-					],
-					[
-						"pdfcontrol",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.",
-						"public/css/cert.css"
-					],
-					[
-						"cert.bl",
-						"resources/views/pdfs/cert.blade.php"
-					],
-					[
-						"routes web",
-						"routes/web.php"
-					],
-					[
-						"client.p",
-						"app/Client.php"
-					],
-					[
-						"clientcontr",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"add not",
-						"resources/views/_modals/add_new_notice.blade.php"
-					],
-					[
-						"mail",
-						"vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php"
-					],
-					[
-						"cert2",
-						"resources/views/pdfs/cert2.blade.php"
-					],
-					[
-						"compo",
-						"composer.json"
-					],
-					[
-						"config app",
-						"config/app.php"
-					],
-					[
-						"pdfco",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"pdfcont",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.blade",
-						"resources/views/pdfs/cert.blade.php"
-					],
-					[
-						"pdfcontrl",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"clientnot",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"noticecon",
-						"app/Http/Controllers/NoticeController.php"
-					],
-					[
-						"clients notices inde",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"clientnoti",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"layout/err",
-						"resources/views/layouts/errors.blade.php"
-					],
-					[
-						"contactcon",
-						"app/Http/Controllers/ContactController.php"
-					],
-					[
-						"clientnotic",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"add new not",
-						"resources/views/_modals/add_new_notice.blade.php"
-					],
-					[
-						"operations controller",
-						"app/controllers/operations_controller.rb"
-					],
-					[
-						"certif",
-						"app/models/certifier.rb"
-					],
-					[
-						"cert4",
-						"resources/views/pdfs/cert4.blade.php"
-					],
-					[
-						".ev",
-						".env.example"
 					]
 				],
 				"width": 0.0
@@ -1073,7 +1404,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 327.0,
+			"side_bar_width": 302.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1088,6 +1419,310 @@
 			{
 				"selected_items":
 				[
+					[
+						"certificate",
+						"certificate_number\t(UsdaCertificate.php)"
+					],
+					[
+						"Usda",
+						"UsdaProduct\t(UsdaCertificate.php)"
+					],
+					[
+						"anniver",
+						"anniversary_date"
+					],
+					[
+						"client",
+						"client_id"
+					],
+					[
+						"mail",
+						"mailing_address\t(BaseCertificate.php)"
+					],
+					[
+						"clien",
+						"client_name"
+					],
+					[
+						"App",
+						"App\\Lead"
+					],
+					[
+						"valid",
+						"validatedData"
+					],
+					[
+						"val",
+						"validatedData"
+					],
+					[
+						"first",
+						"first_name"
+					],
+					[
+						"U",
+						"USER_SUBMITTED_TYPE"
+					],
+					[
+						"Post",
+						"PostController\t(PostController.php)"
+					],
+					[
+						"sort",
+						"sortable"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"list-grou-",
+						"list-group-item \tBootstrap 4 Class"
+					],
+					[
+						"contact",
+						"contact_first_name"
+					],
+					[
+						"full",
+						"full_name\t(Operation.php)"
+					],
+					[
+						"livestoc",
+						"livestock_additional_products"
+					],
+					[
+						"crops",
+						"crops_additional_products"
+					],
+					[
+						"operation",
+						"operation_id"
+					],
+					[
+						"certif",
+						"certification_status_effective_on"
+					],
+					[
+						"Operat",
+						"OperationController"
+					],
+					[
+						"phyi",
+						"physical_country\t(OperationController.php)"
+					],
+					[
+						"phy",
+						"physical_city\t(OperationController.php)"
+					],
+					[
+						"contact_",
+						"contact_first_name\t(OperationController.php)"
+					],
+					[
+						"certifier",
+						"certifier_name\t(OperationController.php)"
+					],
+					[
+						"operat",
+						"operation_id\t(OperationController.php)"
+					],
+					[
+						"ph",
+						"physical_country\t(Operation.php)"
+					],
+					[
+						"contac",
+						"contact_last_name\t(server_side_script.php)"
+					],
+					[
+						"physic",
+						"physical_country"
+					],
+					[
+						"certi",
+						"certification_status"
+					],
+					[
+						"other",
+						"other_operation_names"
+					],
+					[
+						"certifi",
+						"certification_status\t(show.blade.php)"
+					],
+					[
+						"physi",
+						"physical_city"
+					],
+					[
+						"cert",
+						"certifier_name"
+					],
+					[
+						"Contr",
+						"Controller"
+					],
+					[
+						"paddin",
+						"padding-bottom\tproperty"
+					],
+					[
+						"border-rad",
+						"border-bottom-left-radius\tproperty"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"btn-primar",
+						"btn-outline-primary \tBootstrap 4 Class"
+					],
+					[
+						"product",
+						"product_list"
+					],
+					[
+						"prod",
+						"product_list"
+					],
+					[
+						"lives",
+						"livestock_status_effective_on"
+					],
+					[
+						"crop_",
+						"crops_status_effective_on"
+					],
+					[
+						"border-c",
+						"border-color\tproperty"
+					],
+					[
+						"padd",
+						"padding-bottom\tproperty"
+					],
+					[
+						"no",
+						"none\tborder"
+					],
+					[
+						"operation_",
+						"operation_id\t(test.blade)"
+					],
+					[
+						"inln",
+						"inline-block\tdisplay"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"unst",
+						"list-unstyled \tBootstrap 4 Class"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"margi",
+						"margin-left\tproperty"
+					],
+					[
+						"text",
+						"text-center"
+					],
+					[
+						"padding",
+						"padding-bottom\tproperty"
+					],
+					[
+						"line",
+						"line-height\tproperty"
+					],
+					[
+						"to",
+						"top\tvertical-align"
+					],
+					[
+						"ali",
+						"align-items\tproperty"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"marg",
+						"margin-left\tproperty"
+					],
+					[
+						"inl",
+						"inline-block-row"
+					],
+					[
+						"backg",
+						"background-color\tproperty"
+					],
+					[
+						"col-md",
+						"col-md-6"
+					],
+					[
+						"inline-",
+						"inline-flex\tdisplay"
+					],
+					[
+						"ceen",
+						"center\ttext-align"
+					],
+					[
+						"certifcate",
+						"certificate_number"
+					],
+					[
+						"cli",
+						"client_id"
+					],
+					[
+						"ingred",
+						"ingredient_name"
+					],
+					[
+						"type",
+						"type_id\t(Type.php)"
+					],
+					[
+						"sync",
+						"syncTypes"
+					],
+					[
+						"data-t",
+						"data-toggle"
+					],
+					[
+						"appro",
+						"approved_at"
+					],
+					[
+						"categ",
+						"categories"
+					],
+					[
+						"cate",
+						"categories"
+					],
+					[
+						"requ",
+						"request"
+					],
 					[
 						"fieldseas",
 						"fieldseason"
@@ -1109,24 +1744,12 @@
 						"justify-content\tproperty"
 					],
 					[
-						"padd",
-						"padding-right"
-					],
-					[
-						"paddin",
-						"padding-right\tproperty"
-					],
-					[
 						"bac",
 						"background\tproperty"
 					],
 					[
 						"cat",
 						"categories"
-					],
-					[
-						"clien",
-						"client"
 					],
 					[
 						"pr",
@@ -1139,10 +1762,6 @@
 					[
 						"program",
 						"program_id"
-					],
-					[
-						"product",
-						"product_name"
 					],
 					[
 						"Inpu",
@@ -1241,20 +1860,12 @@
 						"fieldhistory"
 					],
 					[
-						"client",
-						"client_id"
-					],
-					[
 						"crop",
 						"crop_id"
 					],
 					[
 						"transl",
 						"translateX()\ttransform"
-					],
-					[
-						"back",
-						"background-repeat\tproperty"
 					],
 					[
 						"rgb",
@@ -1330,16 +1941,44 @@
 						"Package Control: Install Package"
 					],
 					[
+						"xdebug",
+						"Xdebug: Stop Debugging (Close Windows)"
+					],
+					[
+						"x",
+						"Xdebug: Start Debugging"
+					],
+					[
+						"",
+						":TestNearest"
+					],
+					[
+						"phpuni",
+						"PHPUnit: Test Nearest"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
 						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"lorem",
+						"Add some Lorem Gibson"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						"",
-						":TestNearest"
 					],
 					[
 						"test",
@@ -1358,16 +1997,8 @@
 						"PHPUnit: Test File"
 					],
 					[
-						"phpuni",
-						"PHPUnit: Test File"
-					],
-					[
 						"phpu",
 						"PHPUnit: Test Suite"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"termin",
@@ -1410,145 +2041,144 @@
 			},
 			"file_history":
 			[
-				"/home/jeremy/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
-				"/home/jeremy/code/ococ/artisan",
-				"/home/jeremy/code/ococ/resources/views/clients/seasons/index.blade.php",
+				"/home/jeremy/code/ococ/OneCert/Common/Shared/ServiceContractBase.php",
+				"/home/jeremy/code/ococ/.env",
+				"/home/jeremy/code/ococ/OneCert/Accessors/DataTransferObjects/UsdaCertificate.php",
+				"/home/jeremy/code/ococ/OneCert/Contracts/Website/UsdaProduct.php",
+				"/home/jeremy/code/ococ/app/Client.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/PdfController.php",
-				"/home/jeremy/code/ococ/public/css/cert-grid.css",
+				"/home/jeremy/code/ococ/OneCert/Contracts/Enums/UsdaScopes.php",
+				"/home/jeremy/code/ococ/tests/CreatesApplication.php",
+				"/home/jeremy/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+				"/home/jeremy/.config/sublime-text-3/Packages/PHPUnitKit/Preferences.sublime-settings",
+				"/home/jeremy/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/jeremy/code/ococ/OneCert/Accessors/Certificates/CertificateAccessor.php",
+				"/home/jeremy/code/ococ/app/Certificate.php",
+				"/home/jeremy/code/ococ/OneCert/Accessors/AccessorBase.php",
+				"/home/jeremy/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-mousemap",
+				"/home/jeremy/.config/sublime-text-3/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+				"/home/jeremy/code/ococ/app/Anniversary.php",
+				"/home/jeremy/code/ococ/app/User.php",
+				"/home/jeremy/code/ococ/composer.json",
+				"/home/jeremy/code/ococ/resources/views/pdfs/cert2.blade.php",
+				"/home/jeremy/code/ococ/composer.lock",
+				"/home/jeremy/code/ococ/database/seeds/DatabaseSeeder.php",
+				"/home/jeremy/code/blog/app/Providers/AuthServiceProvider.php",
+				"/home/jeremy/code/blog/app/Nova/User.php",
+				"/home/jeremy/code/blog/app/Nova/Lenses/TimeIntensiveLeads.php",
+				"/home/jeremy/code/blog/app/Lead.php",
+				"/home/jeremy/code/blog/app/Nova/Filters/LeadType.php",
+				"/home/jeremy/code/blog/app/Nova/Metrics/LeadsPerDay.php",
+				"/home/jeremy/code/blog/app/Nova/Metrics/LeadsPerStatus.php",
+				"/home/jeremy/code/blog/app/Nova/Filters/LeadStatus.php",
+				"/home/jeremy/code/blog/database/migrations/2018_09_06_135157_create_notes_table.php",
+				"/home/jeremy/code/blog/app/Note.php",
+				"/home/jeremy/code/blog/resources/views/post.blade.php",
+				"/home/jeremy/code/blog/resources/views/welcome.blade.php",
+				"/home/jeremy/code/blog/routes/web.php",
+				"/home/jeremy/code/blog/app/Http/Controllers/LeadController.php",
+				"/home/jeremy/code/blog/app/User.php",
+				"/home/jeremy/code/blog/database/migrations/2018_09_06_135149_create_leads_table.php",
+				"/home/jeremy/code/blog/app/Http/Controllers/PostController.php",
+				"/home/jeremy/code/blog/app/Nova/Post.php",
+				"/home/jeremy/code/blog/app/Nova/Resource.php",
+				"/home/jeremy/code/blog/app/Post.php",
+				"/home/jeremy/code/blog/database/migrations/2018_09_06_133115_create_posts_table.php",
+				"/home/jeremy/code/blog/resources/views/posts.blade.php",
+				"/home/jeremy/code/blog/.env",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/views/_modals/search-tips.blade.php",
+				"/home/jeremy/code/ldd-oid/public/css/app.css",
+				"/home/jeremy/code/ldd-oid/resources/views/operations/index.blade.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Controllers/HomeController.php",
+				"/home/jeremy/code/ldd-oid/app/Certifier.php",
+				"/home/jeremy/code/ldd-oid/app/Operation.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Controllers/APIController.php",
+				"/home/jeremy/code/ldd-oid/routes/web.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Controllers/OperationController.php",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/modals/search-tips.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/footer.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/views/layouts/navbar.blade.php",
+				"/home/jeremy/code/ldd-oid/resources/assets/js/app.js",
+				"/home/jeremy/code/ldd-oid/resources/views/operations/show.blade.php",
+				"/home/jeremy/code/ldd-oid/.env",
+				"/home/jeremy/code/ldd-oid/composer.json",
+				"/home/jeremy/code/ldd-oid/routes/api.php",
+				"/home/jeremy/code/ldd-oid/app/Http/Middleware/TrustProxies.php",
+				"/home/jeremy/code/Laravel-Datatables-Demo/config/app.php",
+				"/home/jeremy/code/Laravel-Datatables-Demo/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/laravel-oid/.env",
+				"/home/jeremy/code/ococ/app/Crop.php",
+				"/home/jeremy/code/laravel-oid/resources/views/datatables/index.blade.php",
+				"/home/jeremy/code/laravel-oid/app/Http/Controllers/DatatablesController.php",
+				"/home/jeremy/code/laravel-oid/config/app.php",
+				"/home/jeremy/code/laravel-oid/app/Http/Controllers/Ajax/OperationController.php",
+				"/home/jeremy/code/laravel-oid/app/Http/Controllers/OperationController.php",
+				"/tmp/mozilla_jeremy0/process2.php",
+				"/home/jeremy/code/laravel-oid/app/Certifier.php",
+				"/home/jeremy/code/laravel-oid/app/Operation.php",
+				"/home/jeremy/code/laravel-oid/resources/views/layouts/navbar.blade.php",
+				"/home/jeremy/code/laravel-oid/config/logging.php",
+				"/home/jeremy/code/laravel-oid/storage/logs/laravel.log",
+				"/home/jeremy/Downloads/GetAllOperationsPublicData (1)/stream",
+				"/home/jeremy/code/alt_oid/app/views/operations/index.html.erb",
+				"/home/jeremy/code/laravel-oid/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/index.blade.php",
+				"/home/jeremy/code/laravel-oid/resources/views/operations/test.blade",
+				"/home/jeremy/code/alt_oid/app/models/operation.rb",
+				"/home/jeremy/code/alt_oid/app/views/operations/show.html.erb",
+				"/home/jeremy/code/blog/config/database.php",
 				"/home/jeremy/code/ococ/app/Http/Controllers/ClientProductController.php",
-				"/home/jeremy/code/ococ/app/Program.php",
+				"/home/jeremy/code/ococ/resources/views/clients/pdfs.blade.php",
+				"/home/jeremy/code/ococ/app/Livestock.php",
+				"/home/jeremy/code/ococ/resources/views/pdfs/cert.blade.php",
 				"/home/jeremy/code/ococ/resources/views/_modals/add_product.blade.php",
 				"/home/jeremy/code/ococ/resources/views/clients/products/index.blade.php",
-				"/home/jeremy/code/ococ/app/Product.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientAddressController.php",
-				"/home/jeremy/code/ococ/config/debugbar.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_contact.blade.php",
-				"/home/jeremy/code/ococ/app/Client.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientContactController.php",
-				"/home/jeremy/code/ococ/config/session.php",
-				"/home/jeremy/code/ococ/config/app.php",
-				"/home/jeremy/code/ococ/.env",
-				"/home/jeremy/code/ococ/node_modules/cssnano/node_modules/postcss/lib/stringifier.js",
-				"/home/jeremy/code/ococ/app/FieldSeason.php",
-				"/home/jeremy/code/ococ/app/Field.php",
-				"/home/jeremy/code/ococ/resources/views/clients/fieldhistory/index.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientFieldhistoryController.php",
-				"/home/jeremy/code/ococ/app/Season.php",
-				"/home/jeremy/code/laravel-event-projector-demo-app/database/migrations/2018_05_21_184753_create_accounts_table.php",
-				"/home/jeremy/code/laravel-event-projector-demo-app/.env",
-				"/home/jeremy/code/ticketbeast/app/Concert.php",
-				"/home/jeremy/code/ticketbeast/database/seeds/DatabaseSeeder.php",
-				"/home/jeremy/code/ticketbeast/database/migrations/2018_07_12_190654_create_concerts_table.php",
-				"/home/jeremy/code/ticketbeast/resources/views/concerts/show.blade.php",
-				"/home/jeremy/code/ticketbeast/config/database.php",
-				"/home/jeremy/code/ticketbeast/.env",
-				"/home/jeremy/code/ticketbeast/phpunit.xml",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/jeremy/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
-				"/home/jeremy/.config/sublime-text-3/Packages/PHPUnitKit/README.md",
-				"/home/jeremy/.config/sublime-text-3/Packages/PHPUnitKit/Preferences.sublime-settings",
-				"/home/jeremy/code/ticketbeast/database/factories/UserFactory.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/test-function.sublime-snippet",
-				"/home/jeremy/code/ticketbeast/routes/web.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_contact.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientSeasonController.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_address.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientController.php",
-				"/home/jeremy/code/ococ/resources/views/notices/index.blade.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/php.sublime-build",
-				"/home/jeremy/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
-				"/home/jeremy/code/ococ/app/Notice.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/NoticeController.php",
-				"/home/jeremy/code/ococ/resources/views/clients/tasks/index.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/TaskController.php",
 				"/home/jeremy/code/ococ/routes/web.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientNoticeController.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/InputsController.php",
-				"/home/jeremy/code/ococ/resources/views/clients/index.blade.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/snippets/Constructor.sublime-snippet",
-				"/home/jeremy/code/ococ/app/RelatedOperations.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/snippets/PHP Protected Method.sublime-snippet",
-				"/home/jeremy/.config/sublime-text-3/Packages/User/snippets/PHP Method.sublime-snippet",
-				"/home/jeremy/code/ococ/app/User.php",
-				"/home/jeremy/code/ococ/app/Crop.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
-				"/home/jeremy/.config/sublime-text-3/Packages/Origami/Default (Linux).sublime-keymap",
-				"/home/jeremy/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
-				"/home/jeremy/code/ococ/config/erd-generator.php",
-				"/home/jeremy/code/ococ/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ContactController.php",
-				"/home/jeremy/code/ococ/app/Providers/AppServiceProvider.php",
-				"/home/jeremy/code/ococ/app/CropField.php",
-				"/home/jeremy/code/ococ/app/Farm.php",
-				"/home/jeremy/code/ococ/resources/views/clients/seasons/create.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_season.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/fields/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/app.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_client_season.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientFieldController.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_farm.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/farms/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_field.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/farms/create.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/crops/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_program_scope.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/fieldhistory/show.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/contacts.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/_farms.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_client.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/edit_client.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientCropController.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_notice.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_crop.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/certificates.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_modals/add_new_input.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/notices/index.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/show.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/products/show.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_contact.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_input.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_phone.blade.php",
+				"/home/jeremy/code/ococ/storage/fonts/Helvetica.afm.php",
+				"/home/jeremy/code/ococ/config/dompdf.php",
+				"/home/jeremy/code/ococ/storage/fonts/OpenSans-Bold.afm.php",
+				"/home/jeremy/code/ococ/storage/fonts/Helvetica-Bold.afm.php",
+				"/home/jeremy/code/ococ/storage/fonts/OpenSans-Bold.ttf",
 				"/home/jeremy/code/ococ/resources/views/pdfs/cpl.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_partials/client_info.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/client.blade.php",
-				"/home/jeremy/code/ococ/app/Certificate.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/sidebar.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/pdfs.blade.php",
-				"/home/jeremy/code/ococ/resources/views/clients/certifications.blade.php",
-				"/home/jeremy/code/ococ/resources/views/home.blade.php",
-				"/home/jeremy/code/ococ/resources/assets/css/app.css",
-				"/home/jeremy/code/ococ/app/Http/Controllers/ClientCertificationController.php",
-				"/home/jeremy/code/ococ/resources/views/help.blade.php",
-				"/home/jeremy/code/ococ/app/Http/Controllers/HelpController.php",
-				"/home/jeremy/code/ococ/vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php",
-				"/home/jeremy/code/ococ/composer.json",
-				"/home/jeremy/code/ococ/resources/views/_partials/form/contact.blade.php",
-				"/home/jeremy/code/ococ/resources/views/pdfs/cert.blade.php",
-				"/home/jeremy/Downloads/cert.blade.php",
-				"/home/jeremy/code/ococ/resources/views/pdfs/cert2.blade.php",
-				"/home/jeremy/.config/sublime-text-3/Packages/TerminalView/README.md",
 				"/home/jeremy/code/ococ/public/css/cert.css",
-				"/home/jeremy/code/ococ/composer.lock",
-				"/home/jeremy/code/ococ/config/snappy.php",
-				"/home/jeremy/Downloads/cert-snappy.blade.php",
-				"/home/jeremy/code/ococ/vendor/niklasravnsborg/laravel-pdf/src/LaravelPdf/Pdf.php",
-				"/home/jeremy/code/ococ/config/pdf.php",
-				"/home/jeremy/code/ococ/vendor/niklasravnsborg/laravel-pdf/src/LaravelPdf/Facades/Pdf.php",
-				"/home/jeremy/code/ococ/public/css/cert-snappy.css",
-				"/home/jeremy/Downloads/cert-old.blade.php",
-				"/home/jeremy/code/ococ/vendor/barryvdh/laravel-dompdf/config/dompdf.php",
-				"/home/jeremy/code/ococ/resources/views/clients/notices/show.blade.php",
-				"/home/jeremy/code/ococ/resources/views/_partials/contact_info.blade.php",
-				"/home/jeremy/code/ococ/resources/views/layouts/errors.blade.php"
+				"/home/jeremy/code/ococ/vendor/psy/psysh/test/fixtures/default/.config/psysh/config.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_new_client.blade.php",
+				"/home/jeremy/code/ococ/app/Type.php",
+				"/home/jeremy/code/ococ/app/Http/Controllers/ClientIngredientController.php",
+				"/home/jeremy/code/ococ/resources/views/layouts/client.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/ingredients/index.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/add_new_notice.blade.php",
+				"/home/jeremy/code/ococ/app/Http/Controllers/ClientController.php",
+				"/home/jeremy/code/ococ/resources/views/_modals/edit_client.blade.php",
+				"/home/jeremy/code/ococ/resources/views/clients/show.blade.php",
+				"/home/jeremy/code/ococ/resources/views/_partials/client_info.blade.php",
+				"/home/jeremy/code/ococ/resources/views/layouts/app.blade.php",
+				"/home/jeremy/code/ococ/public/css/app.css",
+				"/home/jeremy/code/ococ/app/Http/Middleware/VerifyCsrfToken.php",
+				"/home/jeremy/code/ococ/config/session.php",
+				"/home/jeremy/code/ococ/app/Exceptions/Handler.php",
+				"/home/jeremy/code/ococ/vendor/genealabs/laravel-caffeine/config/genealabs-laravel-caffeine.php",
+				"/home/jeremy/code/ococ/config/app.php",
+				"/home/jeremy/code/ococ/resources/views/errors/404.blade.php",
+				"/home/jeremy/code/ococ/resources/views/errors/500.blade.php",
+				"/home/jeremy/code/ococ/resources/views/errors/419.blade.php",
+				"/home/jeremy/code/ococ/app/Http/Middleware/TrustProxies.php",
+				"/home/jeremy/code/ococ/app/Http/Kernel.php",
+				"/home/jeremy/code/ococ/app/Product.php"
 			],
 			"find":
 			{
-				"height": 73.0
+				"height": 75.0
 			},
 			"find_in_files":
 			{
-				"height": 167.0,
+				"height": 173.0,
 				"where_history":
 				[
-					""
 				]
 			},
 			"find_state":
@@ -1556,15 +2186,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"crop",
-					"150px",
-					"program",
-					"session cookie domain",
-					"cookie",
-					"protected $except",
-					"except",
-					"return back",
-					"program"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1581,7 +2202,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 35.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -1622,11 +2243,15 @@
 			{
 				"height": 0.0
 			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,3840,1200",
+			"position": "1,1,0,0,0,0,0,0,0,3840,1200",
 			"replace":
 			{
-				"height": 66.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1636,16 +2261,420 @@
 				"selected_items":
 				[
 					[
+						"client",
+						"app/Client.php"
+					],
+					[
+						"cert.blad",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"pdf",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"cert2",
+						"resources/views/pdfs/cert2.blade.php"
+					],
+					[
+						"auths",
+						"app/Providers/AuthServiceProvider.php"
+					],
+					[
+						"leadcon",
+						"app/Http/Controllers/LeadController.php"
+					],
+					[
+						"we",
+						"routes/web.php"
+					],
+					[
+						"lead",
+						"app/Lead.php"
+					],
+					[
+						"lead.",
+						"app/Lead.php"
+					],
+					[
+						"user.",
+						"app/User.php"
+					],
+					[
+						"note.",
+						"app/Note.php"
+					],
+					[
+						"migrations",
+						"database/migrations/2018_09_06_135157_create_notes_table.php"
+					],
+					[
+						"migrations/",
+						"database/migrations/2018_09_06_135149_create_leads_table.php"
+					],
+					[
+						"web",
+						"routes/web.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"post.",
+						"app/Post.php"
+					],
+					[
+						"app",
+						"config/app.php"
+					],
+					[
+						"app.css",
+						"public/css/app.css"
+					],
+					[
+						"operationcontr",
+						"app/Http/Controllers/OperationController.php"
+					],
+					[
+						"certifer",
+						"app/Certifier.php"
+					],
+					[
+						"app.blad",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"operation",
+						"app/Operation.php"
+					],
+					[
+						"trust",
+						"app/Http/Middleware/TrustProxies.php"
+					],
+					[
+						"app.bl",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"index",
+						"resources/views/operations/index.blade.php"
+					],
+					[
+						"operationcon",
+						"app/Http/Controllers/OperationController.php"
+					],
+					[
+						"pdf.blad",
+						"resources/views/clients/pdfs.blade.php"
+					],
+					[
+						"layouts client",
+						"resources/views/layouts/client.blade.php"
+					],
+					[
+						"produc",
+						"app/Product.php"
+					],
+					[
+						"crop",
+						"app/Crop.php"
+					],
+					[
+						"pdfcon",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"cert.",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"config app",
+						"config/app.php"
+					],
+					[
+						"datatablecon",
+						"app/Http/Controllers/DatatablesController.php"
+					],
+					[
+						"operat",
+						"app/Operation.php"
+					],
+					[
+						"nav",
+						"resources/views/layouts/navbar.blade.php"
+					],
+					[
+						"certifier",
+						"app/Certifier.php"
+					],
+					[
+						"lara",
+						"storage/logs/laravel.log"
+					],
+					[
+						"laravel",
+						"storage/logs/laravel.log"
+					],
+					[
+						"loggi",
+						"config/logging.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"laravel.",
+						"storage/logs/laravel.log"
+					],
+					[
+						"ind",
+						"resources/views/operations/index.blade.php"
+					],
+					[
+						"show.",
+						"resources/views/operations/show.blade.php"
+					],
+					[
+						"larav",
+						"storage/logs/laravel.log"
+					],
+					[
+						"app.b",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"test.",
+						"resources/views/operations/test.blade"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"cert.b",
+						"resources/views/pdfs/cert.blade.php"
+					],
+					[
+						"clietpro",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"add pr",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"clients produc",
+						"resources/views/clients/products/index.blade.php"
+					],
+					[
+						"clientpro",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"add phon",
+						"resources/views/_modals/add_phone.blade.php"
+					],
+					[
+						"add",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"add produ",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"pdfs.",
+						"resources/views/clients/pdfs.blade.php"
+					],
+					[
+						"dompdf",
+						"config/dompdf.php"
+					],
+					[
+						"cert.css",
+						"public/css/cert.css"
+					],
+					[
+						"pdfcontroller",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"pdfconf",
+						"vendor/psy/psysh/test/fixtures/default/.config/psysh/config.php"
+					],
+					[
+						"pdfcont",
+						"app/Http/Controllers/PdfController.php"
+					],
+					[
+						"clientcon",
+						"app/Http/Controllers/ClientController.php"
+					],
+					[
+						"clientingre",
+						"app/Http/Controllers/ClientIngredientController.php"
+					],
+					[
+						"add new client",
+						"resources/views/_modals/add_new_client.blade.php"
+					],
+					[
+						"ingredients",
+						"resources/views/clients/ingredients/index.blade.php"
+					],
+					[
+						"ingredient",
+						"app/Http/Controllers/ClientIngredientController.php"
+					],
+					[
+						"edit client",
+						"resources/views/_modals/edit_client.blade.php"
+					],
+					[
+						"clientcontro",
+						"app/Http/Controllers/ClientController.php"
+					],
+					[
+						"add notice",
+						"resources/views/_modals/add_new_notice.blade.php"
+					],
+					[
+						"add new l",
+						"resources/views/_modals/add_new_client.blade.php"
+					],
+					[
+						"type",
+						"app/Type.php"
+					],
+					[
+						"verifycs",
+						"app/Http/Middleware/VerifyCsrfToken.php"
+					],
+					[
+						"handler",
+						"app/Exceptions/Handler.php"
+					],
+					[
+						"config/ses",
+						"config/session.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"add phone",
+						"resources/views/_modals/add_phone.blade.php"
+					],
+					[
+						"web r",
+						"routes/web.php"
+					],
+					[
+						"han",
+						"app/Exceptions/Handler.php"
+					],
+					[
+						"compo",
+						"composer.lock"
+					],
+					[
+						"",
+						"composer.json"
+					],
+					[
+						".e",
+						".env"
+					],
+					[
+						"add pro",
+						"resources/views/_modals/add_product.blade.php"
+					],
+					[
+						"session",
+						"config/session.php"
+					],
+					[
+						"web ",
+						"routes/web.php"
+					],
+					[
+						"web routes",
+						"routes/web.php"
+					],
+					[
+						"app.blade",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"config sess",
+						"config/session.php"
+					],
+					[
+						"routes we",
+						"routes/web.php"
+					],
+					[
+						"clientnot",
+						"app/Http/Controllers/ClientNoticeController.php"
+					],
+					[
+						"productcontr",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"noticecontr",
+						"app/Http/Controllers/NoticeController.php"
+					],
+					[
+						"produ",
+						"app/Product.php"
+					],
+					[
+						"notice.",
+						"app/Notice.php"
+					],
+					[
+						"notices index",
+						"resources/views/clients/notices/index.blade.php"
+					],
+					[
+						"clientproduct",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"config/sess",
+						"config/session.php"
+					],
+					[
+						"client fieldhistory",
+						"app/Http/Controllers/ClientFieldhistoryController.php"
+					],
+					[
+						"clientprodu",
+						"app/Http/Controllers/ClientProductController.php"
+					],
+					[
+						"client products index",
+						"resources/views/clients/products/index.blade.php"
+					],
+					[
 						"farm",
 						"app/Farm.php"
 					],
 					[
 						"fieldseas",
 						"app/FieldSeason.php"
-					],
-					[
-						"crop",
-						"app/Crop.php"
 					],
 					[
 						"client fieldhist",
@@ -1668,24 +2697,12 @@
 						"app/Http/Controllers/ClientFieldhistoryController.php"
 					],
 					[
-						"pdfcon",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.b",
-						"resources/views/pdfs/cert.blade.php"
-					],
-					[
 						"progra",
 						"app/Program.php"
 					],
 					[
 						"product",
 						"app/Product.php"
-					],
-					[
-						"clientpro",
-						"app/Http/Controllers/ClientProductController.php"
 					],
 					[
 						"clients product",
@@ -1698,14 +2715,6 @@
 					[
 						"clientfield",
 						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"produc",
-						"app/Product.php"
-					],
-					[
-						".env",
-						".env"
 					],
 					[
 						"cert",
@@ -1724,28 +2733,12 @@
 						"app/Http/Controllers/ClientProductController.php"
 					],
 					[
-						"client",
-						"app/Client.php"
-					],
-					[
 						"cert-bo",
 						"resources/views/pdfs/cert-bootstrap.blade.php"
 					],
 					[
-						"pdf",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
 						"pdfcontr",
 						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.css",
-						"public/css/cert.css"
-					],
-					[
-						"cert.blad",
-						"resources/views/pdfs/cert.blade.php"
 					],
 					[
 						"clientfieldhistory index",
@@ -1776,356 +2769,8 @@
 						"app/Concert.php"
 					],
 					[
-						"web",
-						"routes/web.php"
-					],
-					[
 						"viewconc",
 						"tests/Feature/ViewConcertListingTest.php"
-					],
-					[
-						"route we",
-						"routes/web.php"
-					],
-					[
-						"edit conta",
-						"resources/views/_modals/edit_contact.blade.php"
-					],
-					[
-						"fieldhist",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"clientcont",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"clientconta",
-						"app/Http/Controllers/ClientContactController.php"
-					],
-					[
-						"clientcon",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"fieldse",
-						"app/FieldSeason.php"
-					],
-					[
-						"clientfi",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"notices index",
-						"resources/views/notices/index.blade.php"
-					],
-					[
-						"inputs index",
-						"resources/views/inputs/index.blade.php"
-					],
-					[
-						"tasks ind",
-						"resources/views/clients/tasks/index.blade.php"
-					],
-					[
-						"taskcont",
-						"app/Http/Controllers/TaskController.php"
-					],
-					[
-						"notices",
-						"resources/views/notices/index.blade.php"
-					],
-					[
-						"notice",
-						"app/Notice.php"
-					],
-					[
-						"clientcontroll",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"clients index",
-						"resources/views/clients/index.blade.php"
-					],
-					[
-						"clientfieldhi",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"clientseas",
-						"app/Http/Controllers/ClientSeasonController.php"
-					],
-					[
-						"",
-						"~/.config/sublime-text-3/Packages/User/snippets/PHP Protected Method.sublime-snippet"
-					],
-					[
-						"user.",
-						"app/User.php"
-					],
-					[
-						"client seasons",
-						"resources/views/clients/seasons/index.blade.php"
-					],
-					[
-						"parserab",
-						"vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php"
-					],
-					[
-						"fieldhistor",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"field history ind",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"client address",
-						"resources/views/clients/addresses.blade.php"
-					],
-					[
-						"client notices index",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"field history index",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"clients notices ind",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"fieldhistory",
-						"app/Http/Controllers/ClientFieldhistoryController.php"
-					],
-					[
-						"field history inde",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"add field",
-						"resources/views/_modals/add_field.blade.php"
-					],
-					[
-						"app.blade",
-						"resources/views/layouts/app.blade.php"
-					],
-					[
-						"clients field index",
-						"resources/views/clients/fields/index.blade.php"
-					],
-					[
-						"fieldseason",
-						"app/FieldSeason.php"
-					],
-					[
-						"seasons inde",
-						"resources/views/clients/seasons/index.blade.php"
-					],
-					[
-						"field.",
-						"app/Field.php"
-					],
-					[
-						"fieldhis",
-						"resources/views/clients/fieldhistory/index.blade.php"
-					],
-					[
-						"add scope",
-						"resources/views/_modals/add_program_scope.blade.php"
-					],
-					[
-						"add farm",
-						"resources/views/_modals/add_farm.blade.php"
-					],
-					[
-						"crops index",
-						"resources/views/clients/crops/index.blade.php"
-					],
-					[
-						"fields index",
-						"resources/views/clients/fields/index.blade.php"
-					],
-					[
-						"layouts/app",
-						"resources/views/layouts/app.blade.php"
-					],
-					[
-						"contact",
-						"resources/views/clients/contacts.blade.php"
-					],
-					[
-						"field show",
-						"resources/views/clients/fieldhistory/show.blade.php"
-					],
-					[
-						"client.",
-						"app/Client.php"
-					],
-					[
-						"add client",
-						"resources/views/_modals/add_new_client.blade.php"
-					],
-					[
-						"add contact",
-						"resources/views/_modals/add_contact.blade.php"
-					],
-					[
-						"clientcontroller",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"crop.php",
-						"app/Crop.php"
-					],
-					[
-						"clientnotice",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"clients notice",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"clientcrop",
-						"app/Http/Controllers/ClientCropController.php"
-					],
-					[
-						"web routes",
-						"routes/web.php"
-					],
-					[
-						"clients crops inde",
-						"resources/views/clients/crops/index.blade.php"
-					],
-					[
-						"clients farm",
-						"resources/views/clients/farms/index.blade.php"
-					],
-					[
-						"farm.",
-						"app/Farm.php"
-					],
-					[
-						"crop.",
-						"app/Crop.php"
-					],
-					[
-						"clients produ",
-						"resources/views/clients/products/show.blade.php"
-					],
-					[
-						"product.",
-						"app/Product.php"
-					],
-					[
-						"pdfcontrol",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.",
-						"public/css/cert.css"
-					],
-					[
-						"cert.bl",
-						"resources/views/pdfs/cert.blade.php"
-					],
-					[
-						"routes web",
-						"routes/web.php"
-					],
-					[
-						"client.p",
-						"app/Client.php"
-					],
-					[
-						"clientcontr",
-						"app/Http/Controllers/ClientController.php"
-					],
-					[
-						"add not",
-						"resources/views/_modals/add_new_notice.blade.php"
-					],
-					[
-						"mail",
-						"vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php"
-					],
-					[
-						"cert2",
-						"resources/views/pdfs/cert2.blade.php"
-					],
-					[
-						"compo",
-						"composer.json"
-					],
-					[
-						"config app",
-						"config/app.php"
-					],
-					[
-						"pdfco",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"pdfcont",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"cert.blade",
-						"resources/views/pdfs/cert.blade.php"
-					],
-					[
-						"pdfcontrl",
-						"app/Http/Controllers/PdfController.php"
-					],
-					[
-						"clientnot",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"noticecon",
-						"app/Http/Controllers/NoticeController.php"
-					],
-					[
-						"clients notices inde",
-						"resources/views/clients/notices/index.blade.php"
-					],
-					[
-						"clientnoti",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"layout/err",
-						"resources/views/layouts/errors.blade.php"
-					],
-					[
-						"contactcon",
-						"app/Http/Controllers/ContactController.php"
-					],
-					[
-						"clientnotic",
-						"app/Http/Controllers/ClientNoticeController.php"
-					],
-					[
-						"add new not",
-						"resources/views/_modals/add_new_notice.blade.php"
-					],
-					[
-						"operations controller",
-						"app/controllers/operations_controller.rb"
-					],
-					[
-						"certif",
-						"app/models/certifier.rb"
-					],
-					[
-						"cert4",
-						"resources/views/pdfs/cert4.blade.php"
-					],
-					[
-						".ev",
-						".env.example"
 					]
 				],
 				"width": 0.0
@@ -2150,17 +2795,95 @@
 			},
 			"settings":
 			{
+				"phpunit._test_last":
+				{
+					"file": "tests/OneCert/AccessorTests/CertificateAccessorTest.php",
+					"options":
+					{
+						"filter": "::(test_CertificateAccessorTest_GetCertificate)( with data set .+)?$"
+					},
+					"working_dir": "/home/jeremy/code/ococ"
+				},
+				"xdebug":
+				{
+					"hide_conflict": false,
+					"restore_index":
+					{
+						"16":
+						{
+							"group": 0,
+							"index": 0
+						},
+						"29":
+						{
+							"group": 0,
+							"index": 7
+						},
+						"39":
+						{
+							"group": 0,
+							"index": 1
+						},
+						"42":
+						{
+							"group": 0,
+							"index": 6
+						},
+						"45":
+						{
+							"group": 0,
+							"index": 5
+						},
+						"53":
+						{
+							"group": 0,
+							"index": 3
+						},
+						"54":
+						{
+							"group": 0,
+							"index": 4
+						},
+						"57":
+						{
+							"group": 0,
+							"index": 2
+						}
+					},
+					"restore_layout":
+					{
+						"cells":
+						[
+							[
+								0,
+								0,
+								1,
+								1
+							]
+						],
+						"cols":
+						[
+							0.0,
+							1.0
+						],
+						"rows":
+						[
+							0.0,
+							1.0
+						]
+					}
+				}
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 327.0,
+			"side_bar_width": 302.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 58
+			"window_id": 132
 		}
 	],
 	"workspaces":
